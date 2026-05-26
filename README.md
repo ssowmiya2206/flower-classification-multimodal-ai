@@ -1,5 +1,7 @@
 # 🌸 Multimodal Flower Classification & Sentiment Analysis
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KLSwkzgLQxpij4R0VIya_ZvAXRKgZQ4N?usp=sharing)
+
 A deep learning project that combines **Computer Vision** and **Natural Language Processing** into a single multimodal AI pipeline — capable of identifying flower species from images *and* analyzing user reviews for sentiment.
 
 ---
